@@ -1,7 +1,13 @@
 /* Move down content because we have a fixed navbar that is 3.5rem tall */
+/*html, body { overflow-x: hidden; } */
 .jumbotron{
 	text-align: center;
+	background-color: #2DA18A;
+	/*background: url("../images/jumbo_back_original.png") no-repeat scroll center top/cover transparent;*/
+	background-position: right 0px top 20%;
+	color: white;
 }
+
 ul.navbar-nav {
 	font-size: 13px;
 }
@@ -10,6 +16,19 @@ ul.navbar-nav ,.jumbotron h1{
 	font-family: 'Arvo', courier, serif;
 }
 
+
+.jumbotron h1{
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+
+.jumbotron p{
+
+	margin-bottom: 30px;
+	font-weight: 200;
+	padding: 0px 50px;
+}
 .btn-lg{
 	font-size: 24	px;
 }
