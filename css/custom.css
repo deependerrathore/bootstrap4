@@ -2,6 +2,9 @@
 .jumbotron{
 	text-align: center;
 }
+ul.navbar-nav {
+	font-size: 13px;
+}
 
 ul.navbar-nav ,.jumbotron h1{
 	font-family: 'Arvo', courier, serif;
