@@ -51,8 +51,6 @@ ul.navbar-nav ,.jumbotron h1{
 }
 
 .homepage h2{
-	margin-bottom: 30px;
-	border-bottom: 3px solid ;
 	font-size: 30px;
 }
 
@@ -66,3 +64,8 @@ ul.navbar-nav ,.jumbotron h1{
 	font-size: 21px;
 }
 
+.homepage hr{
+	border-color: #2DA18A;
+	width: 170px;
+	margin-top: 15px;
+}
