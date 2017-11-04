@@ -27,7 +27,7 @@ ul.navbar-nav ,.jumbotron h1{
 .jumbotron p{
 
 	margin-bottom: 30px;
-	font-weight: 200;
+	font-weight: 100;
 	padding: 0px 50px;
 }
 .btn-lg{
@@ -36,5 +36,33 @@ ul.navbar-nav ,.jumbotron h1{
 
 .emphasis{
 	color: #2DA18A;
-	font-size: 20px;
 }
+
+.homepage{
+	margin-top: 60px;
+	text-align: center;
+}
+
+.homepage h2,h3{
+	color: #2DA18A;
+	text-transform: uppercase;
+	font-family: 'Arvo', courier, serif;
+	
+}
+
+.homepage h2{
+	margin-bottom: 30px;
+	border-bottom: 3px solid ;
+	font-size: 30px;
+}
+
+
+.homepage h3{
+	font-size: 26px;
+}
+
+.homepage p{
+	font-weight: 300;
+	font-size: 21px;
+}
+
