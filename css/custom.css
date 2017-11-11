@@ -69,3 +69,8 @@ ul.navbar-nav ,.jumbotron h1{
 	width: 170px;
 	margin-top: 15px;
 }
+
+.homepage a:hover{
+	opacity: 0.6;
+
+}
